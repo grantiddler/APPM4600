@@ -1,0 +1,10 @@
+2.a
+ - 12
+
+2.b 
+ - 0.99999
+
+3.1.b
+ - If my tolerance is less than about 10^-6 it blows up somehow. otherwise about 0.995
+
+ 
