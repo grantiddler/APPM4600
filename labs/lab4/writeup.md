@@ -1,7 +1,5 @@
 # prelab
 
-
-
 # 1
 g(x) = x - f(x)/f'(x)
 
